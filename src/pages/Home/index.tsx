@@ -62,6 +62,8 @@ export function Home() {
             Começar
           </StartCowntdownButton>
         )}
+
+        <p>Desenvolvido por Leandro Lottermann</p>
       </form>
     </HomeContainer>
   )
