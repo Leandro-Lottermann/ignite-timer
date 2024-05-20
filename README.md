@@ -3,15 +3,15 @@
 <p align="center">
  
   
-  <!-- <img src="https://img.shields.io/github/commit-activity/t/Leandro-Lottermann/ignite-timer?style=for-the-badge"/> -->
+  
 
   <img src="https://img.shields.io/static/v1?label=react&message=v18.2.0&color=blue&style=for-the-badge&logo=REACT"/>
   <img src="https://img.shields.io/static/v1?label=VERCEL&message=deploy&color=blue&style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/static/v1?label=styled-components&message=v6.1.11&color=green&style=for-the-badge&logo=styledcomponents"/>
+  <img src="https://img.shields.io/github/commit-activity/t/Leandro-Lottermann/ignite-timer?style=for-the-badge"/>
   <img src="https://img.shields.io/static/v1?label=status&message=concluido&color=green&style=for-the-badge"/>
  
-  <img src="https://img.shields.io/badge/status-concluido-green
-  "/>
+  
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
