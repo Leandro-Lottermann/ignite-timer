@@ -4,8 +4,9 @@
   <img src="https://img.shields.io/static/v1?label=react&message=v18.2.0&color=blue&style=for-the-badge&logo=REACT"/>
   <img src="https://img.shields.io/static/v1?label=VERCEL&message=deploy&color=blue&style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/static/v1?label=styled-components&message=v6.1.11&color=green&style=for-the-badge&logo=styledcomponents"/>
+  <img src="https://img.shields.io/badge/status_concluido"/>
   <img src="https://img.shields.io/static/v1?label=Typescript&message=</>&color=blue&style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/STATUS_CONCLUIDO"/>
+  
   <img src="https://img.shields.io/github/commit-activity/t/Leandro-Lottermann/ignite-timer?style=for-the-badge"/>
 </p>
 
