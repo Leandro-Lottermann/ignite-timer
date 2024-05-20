@@ -33,7 +33,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Um timer de realização de tarefas desenvovlido em React durante o curso da Rocketseat. Nesse Projeto apliquei conhecimentos 
+  Um timer de realização de tarefas desenvovlido em React durante o curso da Rocketseat. Nesse Projeto apliquei conhecimentos de Formulários (controlleds e uncontrolled), useEffect e useState. Mas o grande ponto foi poder explorar conceitos como reducers e contextos no Reack. Inclusive é um bom projeto para poder praticar esss conceitors. 
 </p>
 
 ## Funcionalidades
