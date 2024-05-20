@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/static/v1?label=VERCEL&message=deploy&color=blue&style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/static/v1?label=styled-components&message=v6.1.11&color=green&style=for-the-badge&logo=styledcomponents"/>
   <img src="https://img.shields.io/static/v1?label=Typescript&message=</>&color=blue&style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=blue&style=for-the-badge&"/>
+  <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/github/commit-activity/t/Leandro-Lottermann/ignite-timer?style=for-the-badge"/>
 </p>
 
